@@ -6,8 +6,6 @@ Me chamo Thiago Augusto Pini Ceccoti, tenho 18 anos e moro no estado do Paraná.
 
 Tenho grande interesse por desenvolvimento de sistemas e busco constantemente evoluir através de estudos e projetos práticos, principalmente utilizando Python. Gosto de entender como as soluções funcionam por trás dos sistemas e transformar ideias em aplicações úteis no dia a dia.
 
-Sou uma pessoa dedicada ao aprendizado contínuo e estou sempre em busca de novos desafios que contribuam para o meu crescimento como desenvolvedor.
-
 ---
 
 <p align="left">
