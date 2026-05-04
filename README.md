@@ -15,7 +15,14 @@ Sou uma pessoa dedicada ao aprendizado contínuo e estou sempre em busca de novo
         <img 
             alt="Repositórios" 
             title="Meus projetos" 
-            src="https://custom-icon-badges.demolab.com/badge/Projetos-GitHub-blue?style=for-the-badge&logo=repo&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Projetos-blue?style=for-the-badge&logo=repo&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/TAPC-hub/TAPC-hub">
+        <img 
+            alt="Stars" 
+            title="Dê uma estrela no repositório" 
+            src="https://custom-icon-badges.demolab.com/github/stars/TAPC-hub/TAPC-hub?color=facc15&labelColor=eab308&style=for-the-badge&logo=star&label=Stars&logoColor=white"
         />
     </a>
     <a href="https://github.com/TAPC-hub?tab=followers">
@@ -47,34 +54,41 @@ Sou uma pessoa dedicada ao aprendizado contínuo e estou sempre em busca de novo
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TAPC-hub&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    width="48%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TAPC-hub&show_icons=true&theme=tokyonight" 
   />
-
   <img 
-      align="left" 
-      alt="Tecnologias" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAPC-hub&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    width="48%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TAPC-hub&layout=compact&theme=tokyonight&langs_count=5" 
   />
 </p>
 
-<br/>
-<br/>
-
 ---
 
-### 🚀 Objetivo
+### 🌐 Redes e Contato
 
-Crescer na área de desenvolvimento e me tornar um programador profissional, criando projetos cada vez mais completos e úteis.
-
----
-
-### 📫 Contato
-
-- ✉️ thiago.augusto181008@gmail.com
+<p align="left">
+    <a href="https://www.instagram.com/th_augusto__/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/thiago-augusto-6303b9352/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:thiago.augusto181008@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Me envie um email" 
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
