@@ -1,92 +1,80 @@
-# 👨🏻‍💻 Thiago Augusto Pini Ceccoti
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Thiago Augusto Pini Ceccoti</h1>
+<h3 align="center">Software Engineer</h3>
 
-**`Estudante de Engenharia de Software | Futuro Desenvolvedor`**
-
-Me chamo Thiago Augusto Pini Ceccoti, tenho 18 anos e moro no estado do Paraná. Atualmente estou cursando Engenharia de Software e venho desenvolvendo minhas habilidades na área de tecnologia com foco em programação e resolução de problemas.
-
-Tenho grande interesse por desenvolvimento de sistemas e busco constantemente evoluir através de estudos e projetos práticos, principalmente utilizando Python. Gosto de entender como as soluções funcionam por trás dos sistemas e transformar ideias em aplicações úteis no dia a dia.
-
----
-
-<p align="left">
+<p align="center">
     <a href="https://github.com/TAPC-hub?tab=repositories">
         <img 
-            alt="Repositórios" 
-            title="Meus projetos" 
-            src="https://custom-icon-badges.demolab.com/badge/Projetos-blue?style=for-the-badge&logo=repo&logoColor=white"
+            alt="Repositories" 
+            title="My projects" 
+            src="https://custom-icon-badges.demolab.com/badge/Projects-blue?style=for-the-badge&logo=repo&logoColor=white"
         />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/TAPC-hub/TAPC-hub">
         <img 
             alt="Stars" 
-            title="Dê uma estrela no repositório" 
+            title="Give a star to the repository" 
             src="https://custom-icon-badges.demolab.com/github/stars/TAPC-hub/TAPC-hub?color=facc15&labelColor=eab308&style=for-the-badge&logo=star&label=Stars&logoColor=white"
         />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/TAPC-hub?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/TAPC-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/TAPC-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
----
+## 📌 About Me
+- My name is Thiago Augusto Pini Ceccoti, I am 18 years old and I live in the state of Paraná. I am currently studying Software Engineering and I have been developing my skills in the technology field, focusing on programming and problem-solving.
+- I have a great interest in systems development and I constantly seek to improve through studies and practical projects, mainly using Python. I enjoy understanding how solutions work behind the scenes and transforming ideas into useful everyday applications.
 
-### 🤖 Linguagens e Tecnologias
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/TAPC-hub">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TAPC-hub&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="TAPC-hub's GitHub Stats" />
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## 🛠️ Languages & Tools
 
-<br/>
-<br/>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+</p>
 
----
-
-### 📊 Estatísticas
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</p>
 
 <p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TAPC-hub&show_icons=true&theme=tokyonight" 
-  />
-  <img 
-    width="48%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TAPC-hub&layout=compact&theme=tokyonight&langs_count=5" 
-  />
+  <a href="https://github.com/TAPC-hub">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TAPC-hub&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
-
-### 🌐 Redes e Contato
-
-<p align="left">
-    <a href="https://www.instagram.com/th_augusto__/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/thiago-augusto-6303b9352/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:thiago.augusto181008@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Me envie um email" 
-            src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-augusto-6303b9352/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/th_augusto__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:thiago.augusto181008@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
+  </a>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
